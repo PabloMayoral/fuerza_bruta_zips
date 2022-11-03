@@ -1,0 +1,4 @@
+Metodo Sustituyeunodos: que modificara dentro del fichero los numeros por su equivalente en palabras y 
+guardara el fichero. De forma que si aparece en el texto "unodos", debera sustituirlo por "unodos".
+Lo siguiente es una prueba de este ejercicio:
+Esto es una prueba unodostrestresunocincosietenuevecerotresdoscero
